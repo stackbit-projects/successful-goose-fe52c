@@ -20,7 +20,7 @@ sections:
         url: /contact
         style: button
 seo:
-  title: Stackbit Fresh Theme
+  title: Sito Web di Stefano Bianchini
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
