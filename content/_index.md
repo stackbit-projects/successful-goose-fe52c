@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Ciao, sono Stefano Bianchini!'
     content: |
-      Questa è una prova di sito web!
+      Questa è una prova di un sito web!
   - section_id: about
     type: section_content
     title: About
