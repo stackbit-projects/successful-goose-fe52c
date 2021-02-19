@@ -21,7 +21,7 @@ sections:
         style: button
 seo:
   title: Sito Web di Stefano Bianchini
-  description: The preview of the Fresh theme
+  description: Questa è una prova di sito web di stefano bianchini
   extra:
     - name: 'og:type'
       value: website
