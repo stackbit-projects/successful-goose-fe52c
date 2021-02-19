@@ -22,7 +22,7 @@ params:
       - label: About
         url: /about/
         style: link
-      - label: Contact
+      - label: Contatti
         url: /contact/
         style: link
     has_social: true
