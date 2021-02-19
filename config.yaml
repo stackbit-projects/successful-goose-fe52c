@@ -5,7 +5,7 @@ params:
   palette: blue
   header:
     title: Stefano Bianchini
-    profile_img: images/avatar.png
+    profile_img: images/IMG_20210106_113400.jpg
     profile_img_alt: Author avatar
     background: dark
     has_nav: true
