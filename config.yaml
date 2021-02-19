@@ -58,7 +58,7 @@ params:
       target="_blank" rel="noopener">Stackbit</a>. Create yours <a
       href="https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer"
       target="_blank" rel="noopener">now</a>
-  domain: 'https://stefanobianchini22sitoweb.it'
+  domain: 'https://stefanobianchini22.it'
 taxonomies:
   stub: stub
 disableKinds:
