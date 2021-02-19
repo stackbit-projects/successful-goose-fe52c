@@ -20,7 +20,7 @@ sections:
         url: /contact
         style: button
 seo:
-  title: Sito Web di Stefano Bianchini
+  title: Stefano Bianchini
   description: Questa è una prova di sito web di stefano bianchini
   extra:
     - name: 'og:type'
